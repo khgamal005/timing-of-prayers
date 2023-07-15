@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: rgba(255, 218, 169, 0.8);
+}
+.select{
+  background-color:rgb(0, 255, 98)
+
+}
+@media(max-width :769px){
+  .main-card{
+    flex-direction: column;
+  }
+}
