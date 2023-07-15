@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/timing-of-prayersnpm/static/css/main.5e803c45.css",
+    "main.js": "/timing-of-prayersnpm/static/js/main.bcd19f6f.js",
+    "index.html": "/timing-of-prayersnpm/index.html",
+    "main.5e803c45.css.map": "/timing-of-prayersnpm/static/css/main.5e803c45.css.map",
+    "main.bcd19f6f.js.map": "/timing-of-prayersnpm/static/js/main.bcd19f6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e803c45.css",
+    "static/js/main.bcd19f6f.js"
+  ]
+}
